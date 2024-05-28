@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726755872782",
+    "project_id": "demotask-b1451",
+    "storage_bucket": "demotask-b1451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726755872782:android:ee199fcb6ba8480e55ac5f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVeWa8RVU7Xf7oYySvt1YLqw2wqicttI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
